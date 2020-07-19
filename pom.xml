@@ -36,6 +36,7 @@
 					<password>MuleSoft96521</password>
 					<applicationName>Jenkins-Test-Service</applicationName>
 					<environment>Sandbox</environment>
+					<muleVersion>4.3.0</muleVersion>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
