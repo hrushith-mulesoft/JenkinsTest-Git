@@ -31,10 +31,10 @@
 				<configuration>
 					<cloudHubDeployment>
 					<uri>https://anypoint.mulesoft.com</uri>
-					<username>hrushithkiot</username>
+					<username>hrushithreddy</username>
 					<password>MuleSoft96521</password>
 					<applicationName>Jenkins-Test-Service</applicationName>
-					<environment>Sandbox</environment>
+					
 					<muleVersion>4.3.0</muleVersion>
 					</cloudHubDeployment>
 				</configuration>
