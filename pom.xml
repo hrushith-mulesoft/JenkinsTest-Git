@@ -32,11 +32,11 @@
 				<configuration>
 					<cloudHubDeployment>
 					<username>hrushithreddy</username>
+					<password>MuleSoft96521</password>
 					<environment>Sandbox</environment>
 					<workers>1</workers>
 					<workerType>Micro</workerType>
 					<applicationName>Jenkins-Test-Service</applicationName>
-					<password>MuleSoft96521</password>
 					<muleVersion>4.3.0</muleVersion>
 					</cloudHubDeployment>
 				</configuration>
