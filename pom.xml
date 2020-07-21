@@ -31,7 +31,7 @@
 				<configuration>
 					<cloudHubDeployment>
 					<uri>https://anypoint.mulesoft.com</uri>
-					<username>hrushithreddy</username>
+					<username>hrushithkiot</username>
 					<password>MuleSoft96521</password>
 					<applicationName>JenkinsTestService</applicationName>
 					<environment>Sandbox</environment>
