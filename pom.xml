@@ -32,7 +32,6 @@
 					<cloudHubDeployment>
 					<objectStoreV2>true</objectStoreV2>
 					<username>hrushithkiot</username>
-					<workerType>Micro</workerType>
 					<password>MuleSoft96521</password>
 					<applicationName>JenkinsTestService</applicationName>
 					<environment>Sandbox</environment>
