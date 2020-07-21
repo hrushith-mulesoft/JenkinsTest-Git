@@ -6,7 +6,7 @@
 http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd
 http://www.mulesoft.org/schema/mule/file http://www.mulesoft.org/schema/mule/file/current/mule-file.xsd">
 	<http:listener-config name="HTTP_Listener_config" doc:name="HTTP Listener config" doc:id="cabcdc46-084d-485d-9eb1-d55daae6af48" >
-		<http:listener-connection host="0.0.0.0" port="8091" />
+		<http:listener-connection host="0.0.0.0" port="8081" />
 	</http:listener-config>
 	<file:config name="File_Config" doc:name="File Config" doc:id="00d358d5-4b9f-4fe1-a2c6-87651356c327" >
 		<file:connection workingDir="${app.home}" />
