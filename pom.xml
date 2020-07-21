@@ -31,7 +31,6 @@
 				<configuration>
 					<cloudHubDeployment>
 					<objectStoreV2>true</objectStoreV2>
-					<uri>https://anypoint.mulesoft.com</uri>
 					<username>hrushithkiot</username>
 					<workerType>Micro</workerType>
 					<password>MuleSoft96521</password>
